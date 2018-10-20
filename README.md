@@ -3,11 +3,8 @@ Build a simple slot machine with minimum 5 items per reel and 3 reels - user sho
 
 **Link to project:** https://sleepy-ride-8d6aed.netlify.com
 
-<<<<<<< HEAD
 ![alt tag](slot.png)
-=======
-![alt tag]()
->>>>>>> 4309d36f9386327d720a737297700849c3b2283a
+
 
 ## How It's Made:
 
