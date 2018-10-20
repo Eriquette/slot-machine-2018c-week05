@@ -19,4 +19,4 @@ Learned how to use Math methods of .floor and .random together to get random ind
 
 **Daily Code Challenges:** https://github.com/Eriquette/Daily-Code-Challenges
 
-**Picture Gallery:** https://github.com/Eriquette/week01-alumni-project-calculator/tree/answer
+**OOP Calculator:** https://github.com/Eriquette/week01-alumni-project-calculator/tree/answer
