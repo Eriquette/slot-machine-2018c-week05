@@ -1,24 +1,22 @@
-# 🎰 Week05 Bootcamp2018c Project: Slot Machine
-
-### Goal: Build a Simple Slot Machine
-
+# Slot Machine
 Build a simple slot machine with minimum 5 items per reel and 3 reels - user should be able to bet min or max and have their total update
 
-### How to submit your code for review:
+**Link to project:** https://sleepy-ride-8d6aed.netlify.com
 
-- Fork and clone this repo
-- Create a new branch called answer
-- Checkout answer branch
-- Push to your fork
-- Issue a pull request
-- Your pull request description should contain the following:
-  - (1 to 5 no 3) I completed the challenge
-  - (1 to 5 no 3) I feel good about my code
-  - Anything specific on which you want feedback!
+![alt tag]()
 
-Example:
-```
-I completed the challenge: 5
-I feel good about my code: 4
-I'm not sure if my constructors are setup cleanly...
-```
+## How It's Made:
+
+**Tech used:** HTML5, CSS3, JavaScript
+Styling for this project was done using a CSS Grid layout. Behaviour of spinning slot machine was done by getting a random number 0-4 that iterated array with image url's and replaced image src.
+
+## Lessons Learned:
+Learned how to use Math methods of .floor and .random together to get random indexes of my array
+
+## Examples:
+
+**To-do List:** https://github.com/Eriquette/todo-list-2018c-week05/tree/answer
+
+**Daily Code Challenges:** https://github.com/Eriquette/Daily-Code-Challenges
+
+**Picture Gallery:** https://github.com/Eriquette/week01-alumni-project-calculator/tree/answer
